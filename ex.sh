@@ -33,5 +33,5 @@ docker run -d --restart unless-stopped --pull always --name tinnn5 exordelabs/ex
 
 docker container logs -f tinnn1
 
-
+htop
 
